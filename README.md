@@ -1,5 +1,12 @@
 # Hi, I'm Bagas Aditya!
+---
+[![Instagram](https://img.shields.io/badge/@bagas_adtyaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bagas_adtyaa)
+[![GitHub](https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bagas_adtyaa)
+[![YouTube](https://img.shields.io/badge/YouTube_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/YOURCHANNEL)
+[![WhatsApp](https://img.shields.io/badge/Chat_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/YOURNUMBER)
+[![Gmail](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bagasadtya@example.com)
 
+---
 ### 🍽️ Restaurant Crew by Day | 💻 Aspiring Front-End Web Developer by Night
 
 I'm currently working full-time at a restaurant from morning to night, but my passion lies in tech. After work, I dedicate my time to learning and building things with code — especially in the world of front-end development.
@@ -41,15 +48,8 @@ This is my personal journey from kitchen to code.
 - Weak in logic? Yes. But I keep practicing until it clicks
 - My goal: **become a front-end web developer and level up my life**
 
----
 
-## 📫 Connect with Me
 
-[![Instagram](https://img.shields.io/badge/@bagas_adtyaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bagas_adtyaa)
-[![GitHub](https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bagas_adtyaa)
-[![YouTube](https://img.shields.io/badge/YouTube_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/YOURCHANNEL)
-[![WhatsApp](https://img.shields.io/badge/Chat_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/YOURNUMBER)
-[![Gmail](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bagasadtya@example.com)
 
 ---
 
