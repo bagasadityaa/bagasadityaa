@@ -10,7 +10,7 @@ Ini perjalanan saya, dari ngelayanin pelanggan sampai ngoding komponen UI. 😄
 
 ---
 
-## 🚀 Saat Ini Saya Lagi Belajar:
+## 🚀 Saat Ini Lagi Belajar:
 - Ngembangin web pemesanan makanan take away atau dine in menggunakan **Next.js** dan api **Laravel** dengan utilities **Tailwindcss**
 - Membuat UI (user interface) yang responsive dan gampang dipakai
 - Belajar **Laravel** buat ngerti logika dan backend (CRUD & API)
