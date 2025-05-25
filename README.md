@@ -1,4 +1,4 @@
-8# Halo! 👋 Saya Bagas Aditya!
+# Halo! 👋 Saya Bagas Aditya!
 
 [![Instagram](https://img.shields.io/badge/@bagas__adtyaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bagas_adtyaa)
 
@@ -35,7 +35,6 @@ Ini perjalanan saya, dari ngelayanin pelanggan sampai ngoding komponen UI. 😄
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
 ### Hosting
-
 ![NGROK](https://img.shields.io/badge/ngrok-140648?style=for-the-badge&logo=Ngrok&logoColor=white)
 ![VERCEL](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ---
