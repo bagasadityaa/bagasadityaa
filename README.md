@@ -39,6 +39,9 @@ Ini perjalanan saya, dari ngelayanin pelanggan sampai ngoding komponen UI. 😄
 ![VERCEL](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ---
 
+## Statistik Github
+![Bagas aditya GitHub stats](https://github-readme-stats.vercel.app/api?username=bagasadityaa&show_icons=true)
+
 ## ✨ Tentang Saya
 - Belajar secara **otodidak**, tiap malam luang saya pakai buat ngoding
 - Senang bikin desain UI yang rapi dan mudah digunakan
