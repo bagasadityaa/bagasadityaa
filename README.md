@@ -1,6 +1,6 @@
 # Halo! 👋 Saya Bagas Aditya!
 
-[![Instagram](https://img.shields.io/badge/@bagas__adtyaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bagas_adtyaa)
+[![Instagram](https://img.shields.io/badge/@desainsetengahjadi-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/desainsetengahjadi)
 
 ### 🍽️ Kerja di Restoran | 💻 Belajar Jadi Front-End Developer
 
