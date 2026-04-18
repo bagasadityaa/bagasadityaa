@@ -12,18 +12,18 @@ Ini perjalanan saya, dari ngelayanin pelanggan sampai ngoding komponen UI. 😄
 
 # 👨‍💻 Project yang Sedang Dikembangkan
 
-- **Web Inventaris Barang** — dibangun menggunakan **Next.js** dan **Firebase**, dengan styling menggunakan **Tailwind CSS**.  
 - **Web Informasi Restoran [Ayam Bakar Lamongan Cak Di](https://foodweb-bagas-adityas-projects.vercel.app/)** — dibuat menggunakan **Next.js** dan **Tailwind CSS** untuk tampilan yang modern, ringan, dan responsif.
 
 ---
 
-## 🚀 Saat Ini Lagi Belajar
+# 🚀 Fokus & Pengembangan Saat Ini
 
-- Ngembangin web **pemesanan makanan (take away & dine in)** pakai **Next.js** dan API **Laravel**, dengan utilities **Tailwind CSS**  
-- Ngedesain UI yang **responsif, clean, dan user-friendly**  
-- Belajar **Laravel** buat paham logika backend (**CRUD & REST API**)  
-- Eksperimen bikin aplikasi mobile pakai **React Native + Expo**  
-- Ngerjain berbagai project biar makin siap terjun ke dunia kerja tech 💪
+- Mengembangkan aplikasi web **pemesanan makanan (take away & dine in)** menggunakan **Next.js**, **Laravel API**, dan **Tailwind CSS**, dengan fokus pada performa dan skalabilitas  
+- Membangun sistem **pemesanan berbasis chat AI** yang memungkinkan pelanggan memesan menggunakan bahasa natural, kemudian otomatis dikonversi menjadi data order terstruktur, disimpan ke **Firebase**, dan diteruskan ke sistem restoran  
+- Mendesain antarmuka yang **responsif, clean, dan user-friendly** untuk meningkatkan pengalaman pengguna di berbagai perangkat  
+- Memperdalam kemampuan backend menggunakan **Laravel**, khususnya pada **CRUD** dan pengembangan **REST API**  
+- Mengeksplorasi pengembangan aplikasi mobile dengan **React Native + Expo** untuk solusi cross-platform  
+- Aktif mengerjakan project nyata sebagai persiapan membangun karier di bidang teknologi  
 
 ---
 
