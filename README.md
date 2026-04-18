@@ -37,6 +37,7 @@ Ini perjalanan saya, dari ngelayanin pelanggan sampai ngoding komponen UI. 😄
 
 ### Back-End
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FF2D20?style=for-the-badge&logo=firebase&logoColor=white)
 
 ### Mobile
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
